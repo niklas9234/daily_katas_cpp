@@ -3,4 +3,7 @@
 ---
 
 Einzelne Ordner mit Kalenderweoche und den jeweiligen Übungsdatein.
-ind die Übungen komplexer werden weitere unterordner erstellt. 
+Sind die Übungen komplexer werden weitere unterordner erstellt. 
+
+Der Übersichtlichkeit wegen werden KW order zu Monatsordnern und Monatsorder zu 
+Jahresordner zusammengefasst.
