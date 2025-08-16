@@ -1,4 +1,4 @@
-// lib/2024/day_01/src/day01.cpp
+// lib/aoc/2024/day_01/src/day01.cpp
 #include "aoc2024/day_01.h"
 #include <algorithm>
 #include <array>
