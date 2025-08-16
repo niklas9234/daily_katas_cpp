@@ -1,4 +1,4 @@
-// lib/2024/day_01/include/aoc2024/day_01.h
+// lib/aoc/2024/day_01/include/aoc2024/day_01.h
 #pragma once
 #include <string>
 
