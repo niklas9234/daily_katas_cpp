@@ -2,7 +2,7 @@
 #include "aoc2024/day_01.h"
 #include <algorithm>
 #include <array>
-#include <cmath>   // für std::abs
+#include <cmath>   
 
 namespace aoc2024::day_01{
 
@@ -18,7 +18,7 @@ namespace aoc2024::day_01{
             sum += std::abs(l[i] - r[i]);
         }
 
-        return sum;  // <-- statt direkt auszugeben
+        return sum;  
     }
 
 }
