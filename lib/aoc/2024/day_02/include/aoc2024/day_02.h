@@ -4,7 +4,7 @@
 
 namespace aoc2024::day_02 {
 
-    int part1();
+    void part1();
 
 
 
